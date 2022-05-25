@@ -4,7 +4,7 @@
 <a href="https://github.com/BemjaminS" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/ben_swisa" target="_blank">
+<a href="https://instagram.com/ben_swissa" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/Ben-swissa1" target="_blank">
